@@ -1,5 +1,5 @@
 //create arrayList & Print the data in forward direction & backWard  Direction
-package CoreJava.collectionFramework;
+package collectionFramework;
 
 import java.util.ArrayList;
 

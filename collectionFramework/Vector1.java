@@ -1,5 +1,5 @@
 //Create VEctor add some data and convert that to arrayList
-package CoreJava.collectionFramework;
+package collectionFramework;
 
 import java.util.*;
 
