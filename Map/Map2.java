@@ -3,7 +3,7 @@ package Map;
 
 import java.util.HashMap;
 
-public class Test1 {
+public class Map2 {
 
 	public static void main(String[] args) {
 		HashMap<Integer,String> hm = new HashMap<Integer,String>();
@@ -12,7 +12,7 @@ public class Test1 {
 		hm.put(1,"Rahul");
 		hm.put(10,null);
 		hm.put(18,"Abhishek");
-//		hm.put(null,Rohit); (This will give error)
+		hm.put(null,"Rohit"); 
 		hm.put(3,"Raina");
 		System.out.println(hm.entrySet());
 		System.out.println(hm.keySet());
